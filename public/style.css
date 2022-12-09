@@ -19,7 +19,7 @@
     padding:30px;
     width:80%;
     color:white;
-    background-color:rgba(255, 102, 102,0.5);
+    background-color:rgba(255, 102, 102,0.6);
     line-height:30px;
     font-size:23px;
 }
@@ -29,4 +29,19 @@
     padding:10px;
     color:white;
     border-radius:15px;
+}
+
+#textBox1{
+    height: 130px;
+    width: 40%;
+}
+
+#textBox2{
+    height: 130px;
+    width: 40%;
+}
+ 
+#textBox3{
+    height: 130px;
+    width: 40%;
 }
